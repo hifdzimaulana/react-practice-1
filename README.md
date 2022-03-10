@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Paths
+By the default of this project, your server is running on [http://127.0.0.1:3000](http://127.0.0.1:3000). You can access the end-point pages through these paths:
+
+### `/`
+Nothing is there.
+
+### `/bmi`
+Calculating Body mass index or Quetelet index based on a person's weight and height.
+
+### `/cicilan`
+Calculating monthly installment from certain loan principal amount and fixed interest rate.
+
+### `/kasir`
+Calculating net price of a total price after being subtracted by specific tax rate and discount.
+
+### `/kasir`
+Converting between binary, octal, decimal, hexadecimal numbers.
