@@ -74,15 +74,20 @@ By the default of this project, your server is running on [http://127.0.0.1:3000
 
 ### `/`
 Nothing is there.
+![docs/screenshots/Screenshot_1.png](docs/screenshots/Screenshot_1.png)
 
 ### `/bmi`
 Calculating Body mass index or Quetelet index based on a person's weight and height.
+![docs/screenshots/Screenshot_2.png](docs/screenshots/Screenshot_2.png)
 
 ### `/cicilan`
 Calculating monthly installment from certain loan principal amount and fixed interest rate.
+![docs/screenshots/Screenshot_3.png](docs/screenshots/Screenshot_3.png)
 
 ### `/kasir`
 Calculating net price of a total price after being subtracted by specific tax rate and discount.
+![docs/screenshots/Screenshot_4.png](docs/screenshots/Screenshot_4.png)
 
-### `/kasir`
+### `/konversi-bilangan`
 Converting between binary, octal, decimal, hexadecimal numbers.
+![docs/screenshots/Screenshot_5.png](docs/screenshots/Screenshot_5.png)
